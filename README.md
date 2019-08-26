@@ -10,7 +10,7 @@ PHPMailer is a class library for PHP that provides a collection of functions to 
 ## Step 2: Add this Code
 
 
-require 'PHPMailerAutoload.php';
+            require 'PHPMailerAutoload.php';
             
             $mail = new PHPMailer;
             
